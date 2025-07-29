@@ -52,5 +52,5 @@ The + C is the constant of integration, since integration is not unique.
 
 9. Displays results on the screen
 
-Prepared by: Nikodimos Elias G/Egziabher
-Junior Software Developer
+                                      # Prepared by: Nikodimos Elias G/Egziabher
+                                      # Junior Software Developer
